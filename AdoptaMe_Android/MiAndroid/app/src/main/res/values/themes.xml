@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MiAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/adoptame_bg</item>
+        <item name="android:navigationBarColor">@color/adoptame_bg</item>
+        <item name="colorPrimary">@color/adoptame_orange</item>
+        <item name="colorSecondary">@color/adoptame_purple</item>
+        <item name="android:windowBackground">@color/adoptame_bg</item>
+    </style>
+
+    <style name="Theme.MiMenu" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/adoptame_bg</item>
+        <item name="colorPrimary">@color/adoptame_orange</item>
+        <item name="android:windowBackground">@color/adoptame_bg</item>
+    </style>
+
+    <style name="Base.Theme.MiAndroid" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
