@@ -1,0 +1,11 @@
+# Spring / Gradle
+**/build/
+**/.gradle/
+**/.idea/
+
+# Android
+**/local.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
